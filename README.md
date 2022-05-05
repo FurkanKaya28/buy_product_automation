@@ -2,6 +2,8 @@
 
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />][python]
 [<img align="left" alt="Selenium" width="32px" src="https://seeklogo.com/images/S/selenium-logo-DB9103D7CF-seeklogo.com.png" />][selenium]
+[<img align="left" alt="Apple" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Apple_logo_dark_grey.svg/1724px-Apple_logo_dark_grey.svg.png" />][apple]
+
 <br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/furkan-kaya-782888229/)
 <br>
@@ -20,3 +22,4 @@ Bu çalışma da OOP yapısı kullanılmıştır.
 
 [python]: https://www.python.org/
 [selenium]: https://www.selenium.dev/
+[apple]: https://www.apple.com/tr/
